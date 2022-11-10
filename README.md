@@ -1,5 +1,5 @@
 ### Hi there 👋
-![glorialangreo-header](https://user-images.githubusercontent.com/1735279/201078363-12c340b0-5032-4864-a5e0-ea045b884cd2.png)
+![glorialangreo-header](https://user-images.githubusercontent.com/1735279/201135987-6c628ebb-652d-4821-b8d0-651301cae2b8.png)
 
 I'm Glòria & I work at GitHub. 
 
